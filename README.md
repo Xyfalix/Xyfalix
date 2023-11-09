@@ -1,5 +1,5 @@
 # Hi there 👋, I am Nicholas! 
-[![Linkedin: Nicholas Lim](https://img.shields.io/badge/-Nicholas%20Lim-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/nicholas-lim-chiew-yee-86b397102/)](https://www.linkedin.com/in/nicholas-lim-chiew-yee-86b397102/)
+[![Linkedin: Nicholas Lim](https://img.shields.io/badge/-Nicholas%20Lim-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/limchiewyeenicholas/)](https://www.linkedin.com/in/nicholas-lim-chiew-yee-86b397102/)
 [![Github Xyfalix](https://img.shields.io/github/followers/Xyfalix?style=social)](https://github.com/Xyfalix)
 
 ## Intro and background
