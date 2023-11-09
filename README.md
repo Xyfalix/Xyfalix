@@ -3,11 +3,11 @@
 [![Github Xyfalix](https://img.shields.io/github/followers/Xyfalix?style=social)](https://github.com/Xyfalix)
 
 ## Intro and background
-🎓 I graduated from the National University of Singapore (NUS) in 2015 with a Bachelor's degree in Chemical Engineering.
-👨‍💼 Formerly worked in MNCs as a Process Engineer and Quality Engineer, optimizing industrial processes and ensuring quality standards.
-💻 Transitioning into a Software Engineering (SWE) role.
-🚀 Currently expanding my programming skills through courses and projects.
-🌐 Passionate about making a positive impact through coding.
+- 🎓 I graduated from the National University of Singapore (NUS) in 2015 with a Bachelor's degree in Chemical Engineering.
+- 👨‍💼 Formerly worked in MNCs as a Process Engineer and Quality Engineer, optimizing industrial processes and ensuring quality standards.
+- 💻 Transitioning into a Software Engineering (SWE) role.
+- 🚀 Currently expanding my programming skills through courses and projects.
+- 🌐 Passionate about making a positive impact through coding.
  
 
 ## Website
