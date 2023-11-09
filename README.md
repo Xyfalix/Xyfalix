@@ -22,17 +22,17 @@ You can view my website by clicking on the button below!
 ![Python](https://img.shields.io/badge/Python-brightgreen?style=flat&logo=python)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=flat)
 ![CSS](https://img.shields.io/badge/CSS-yellow?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-blu3?style=flat&logo=javascript)
 
 
 :crossed_swords: Tech Stack
 
 ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-orange?style=flat&logo=mongodb)
 ![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-blueviolet?style=flat&logo=tailwind-css)
-![Pandas](https://img.shields.io/badge/Pandas-blueviolet?style=flat&logo=pandas)
+![Pandas](https://img.shields.io/badge/Pandas-pink?style=flat&logo=pandas)
 ![SQAlchemy](https://img.shields.io/badge/SQLAlchemy-yellow?style=flat&logo=sqlalchemy)
 ![Flask](https://img.shields.io/badge/Flask-red?style=flat&logo=flask)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap)
