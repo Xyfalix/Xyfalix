@@ -22,7 +22,7 @@ You can view my website by clicking on the button below!
 ![Python](https://img.shields.io/badge/Python-brightgreen?style=flat&logo=python)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=flat)
 ![CSS](https://img.shields.io/badge/CSS-yellow?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-blu3?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=flat&logo=javascript)
 
 
 :crossed_swords: Tech Stack
@@ -35,7 +35,7 @@ You can view my website by clicking on the button below!
 ![Pandas](https://img.shields.io/badge/Pandas-pink?style=flat&logo=pandas)
 ![SQAlchemy](https://img.shields.io/badge/SQLAlchemy-yellow?style=flat&logo=sqlalchemy)
 ![Flask](https://img.shields.io/badge/Flask-red?style=flat&logo=flask)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=flat&logo=bootstrap)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?style=flat&logo=postgresql)
 ![Selenium](https://img.shields.io/badge/Selenium-cyan?style=flat&logo=selenium)
 
