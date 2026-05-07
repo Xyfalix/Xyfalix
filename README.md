@@ -12,7 +12,7 @@
 :electron: Languages
 
 ![Python](https://img.shields.io/badge/Python-brightgreen?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-brightgreen?style=flat&logo=Typescript)
+![TypeScript](https://img.shields.io/badge/TypeScript-orange?style=flat&logo=Typescript)
 
 
 :crossed_swords: Tech Stack
