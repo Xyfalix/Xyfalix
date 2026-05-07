@@ -7,21 +7,12 @@
 - 👨‍💼 Formerly worked in top MNCs as a Process Engineer and Quality Engineer, optimizing industrial processes and ensuring quality standards.
 - 🚀 Currently expanding my programming skills through courses and projects.
 - 🌐 Newfound passion in making a positive impact through coding.
- 
-
-## Website
-You can view my website by clicking on the button below!
-
-[![Website](https://img.shields.io/website?label=Squarespace&style=flat-square&url=https%3A%2F%2Fnicholaslim.me%2F&logo=Squarespace)](https://nicholaslim.me/)
-
 
 ## Skills
 :electron: Languages
 
 ![Python](https://img.shields.io/badge/Python-brightgreen?style=flat&logo=python)
-![HTML](https://img.shields.io/badge/HTML-orange?style=flat)
-![CSS](https://img.shields.io/badge/CSS-yellow?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=Typescript)
 
 
 :crossed_swords: Tech Stack
